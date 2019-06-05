@@ -1,0 +1,11 @@
+{
+  "name": "eslint-plugin-mox",
+  "version": "1.0.0",
+  "description": "Moxion-specific eslint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kin Salayon",
+  "license": "ISC"
+}
